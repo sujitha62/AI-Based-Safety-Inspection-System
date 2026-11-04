@@ -1,0 +1,10 @@
+venv/
+.venv/
+dataset/
+MBDD2025/
+runs/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+.streamlit/secrets.toml

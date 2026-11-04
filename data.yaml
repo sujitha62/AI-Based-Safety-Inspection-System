@@ -1,0 +1,13 @@
+path: dataset
+
+train: train/images
+val: val/images
+
+nc: 5
+
+names:
+  - crack
+  - leakage
+  - corrosion
+  - abscission
+  - bulge
